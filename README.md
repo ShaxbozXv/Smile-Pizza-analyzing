@@ -1,5 +1,5 @@
 # Smile-Pizza-analyzing
-Smile Pizza Data analyzing used Power BI
+Smile Pizza Data analyzing used Excel
 
 # Problem Statement
 
